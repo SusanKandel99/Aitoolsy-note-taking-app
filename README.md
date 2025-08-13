@@ -1,1 +1,0 @@
-# Aitoolsy-note-taking-app
